@@ -10,5 +10,5 @@
 
 <p><img align="left" src="https://img1.freepng.es/20180608/fqh/kisspng-computer-network-packet-tracer-cisco-systems-ccna-5b1b41cfed58f9.6991122415285129759722.jpg" alt="josiasjechc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josiasjechc&show_icons=true&locale=en" alt="josiasjechc" /></p>
+<p>&nbsp;<img align="center" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" alt="josiasjechc" /></p>
 
